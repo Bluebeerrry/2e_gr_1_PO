@@ -1,0 +1,14 @@
+C:\Users\Dell\Desktop\2e_gr_1_PO\bin\Debug\net7.0\2e_gr_1_PO.exe
+C:\Users\Dell\Desktop\2e_gr_1_PO\bin\Debug\net7.0\2e_gr_1_PO.deps.json
+C:\Users\Dell\Desktop\2e_gr_1_PO\bin\Debug\net7.0\2e_gr_1_PO.runtimeconfig.json
+C:\Users\Dell\Desktop\2e_gr_1_PO\bin\Debug\net7.0\2e_gr_1_PO.dll
+C:\Users\Dell\Desktop\2e_gr_1_PO\bin\Debug\net7.0\2e_gr_1_PO.pdb
+C:\Users\Dell\Desktop\2e_gr_1_PO\obj\Debug\net7.0\2e_gr_1_PO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\2e_gr_1_PO\obj\Debug\net7.0\2e_gr_1_PO.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\2e_gr_1_PO\obj\Debug\net7.0\2e_gr_1_PO.AssemblyInfo.cs
+C:\Users\Dell\Desktop\2e_gr_1_PO\obj\Debug\net7.0\2e_gr_1_PO.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\2e_gr_1_PO\obj\Debug\net7.0\2e_gr_1_PO.dll
+C:\Users\Dell\Desktop\2e_gr_1_PO\obj\Debug\net7.0\refint\2e_gr_1_PO.dll
+C:\Users\Dell\Desktop\2e_gr_1_PO\obj\Debug\net7.0\2e_gr_1_PO.pdb
+C:\Users\Dell\Desktop\2e_gr_1_PO\obj\Debug\net7.0\2e_gr_1_PO.genruntimeconfig.cache
+C:\Users\Dell\Desktop\2e_gr_1_PO\obj\Debug\net7.0\ref\2e_gr_1_PO.dll
